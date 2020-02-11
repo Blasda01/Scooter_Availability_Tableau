@@ -1,4 +1,4 @@
-## ** Minneapolis Scooter Distibution Project**
+## Minneapolis Scooter Distibution Project
 
 Project by: David Blascyk, Michael Laska, Ingris O'Connor, and Cindy Pendarvis
 
@@ -12,7 +12,7 @@ to determine whether this criteria had been met.
 
 Go to [Minneapolis Scooter Tableau](https://public.tableau.com/profile/david.blascyk#!/vizhome/MplsScootersProject/MinneapolisScooterProject?publish=yes) to view the final report.
 
-**Process**
+# Process
 
 * Extract and merge data from three sources (Scooter availability, GIS location codes, and zipcode poverty rates) and build database.  
 * Categorize scooter locations based on type of zipcode (High-Poverty neighborhood, Low-Poverty neighborhood, or Downtown).  
@@ -23,7 +23,10 @@ Go to [Minneapolis Scooter Tableau](https://public.tableau.com/profile/david.bla
 * Jupyter Notebook  
 * Tableau  
 
-**Additional Visuals**
+
+**Individual contributions to the project:** ETL of data, creation of Tableau dashboards
+
+# Additional Visuals
 
 Snapshot of Initial data:
 ![data 1](images/Initial_Dataframe.PNG)
@@ -36,5 +39,3 @@ Tableau Snapshots:
 
 ![tab 1](images/Tab1.PNG)       ![tab 2](images/Tab2.PNG)
 
-
-**Individual contributions to the project:** ETL of data, creation of Tableau dashboards
