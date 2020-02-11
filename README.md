@@ -1,4 +1,4 @@
-##** Minneapolis Scooter Distibution Project**
+## ** Minneapolis Scooter Distibution Project**
 
 Project by: David Blascyk, Michael Laska, Ingris O'Connor, and Cindy Pendarvis
 
@@ -14,14 +14,14 @@ Go to [Minneapolis Scooter Tableau](https://public.tableau.com/profile/david.bla
 
 **Process**
 
-*Extract and merge data from three sources (Scooter availability, GIS location codes, and zipcode poverty rates) and build database.</br>
-*Categorize scooter locations based on type of zipcode (High-Poverty neighborhood, Low-Poverty neighborhood, or Downtown).
-*Calculate distribution rates in Jupyter Notebook and then display maps and graphs in Tableau. 
+* Extract and merge data from three sources (Scooter availability, GIS location codes, and zipcode poverty rates) and build database.  
+* Categorize scooter locations based on type of zipcode (High-Poverty neighborhood, Low-Poverty neighborhood, or Downtown).  
+* Calculate distribution rates in Jupyter Notebook and then display maps and graphs in Tableau.  
 
-**Tools**
-*Python Libraries: Pandas, Numpy, Matplotlib 
-*Jupyter Notebook
-*Tableau
+**Tools**  
+* Python Libraries: Pandas, Numpy, Matplotlib  
+* Jupyter Notebook  
+* Tableau  
 
 **Additional Visuals**
 
