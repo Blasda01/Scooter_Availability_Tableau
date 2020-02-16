@@ -31,7 +31,7 @@ to determine whether this criteria had been met.
 Snapshot of Initial data:
 ![data 1](images/Initial_Dataframe.PNG)
 
-Snapshot of Merged and Parsed data:
+Snapshot of merged and parsed data:
 ![data 2](images/Final_DataFrame.PNG)
 
 
