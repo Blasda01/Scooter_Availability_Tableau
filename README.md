@@ -1,6 +1,6 @@
 # Minneapolis Scooter Distibution Project
 
-Project by: David Blascyk, Michael Laska, Ingris O'Connor, and Cindy Pendarvis
+Project by: David Blascyk, Michael Laska, Ingris O'Connor, and Cindy Pendarvis 
 
 ## Go to [Minneapolis Scooter Tableau](https://public.tableau.com/profile/david.blascyk#!/vizhome/MplsScootersProject/MinneapolisScooterProject?publish=yes) to view the final report.
 
