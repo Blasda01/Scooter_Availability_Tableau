@@ -1,15 +1,15 @@
 # Minneapolis Scooter Distibution Project
 
-Project by: David Blascyk, Michael Laska, Ingris O'Connor, and Cindy Pendarvis
+Project by: David Blascyk, Michael Laska, Ingris O'Connor, and Cindy Pendarvis 
 
 ## Go to [Minneapolis Scooter Tableau](https://public.tableau.com/profile/david.blascyk#!/vizhome/MplsScootersProject/MinneapolisScooterProject?publish=yes) to view the final report.
 
-ETL and Tableau Visualization project to audit the availablity of retal scooter in High-Poverty neighborhoods of Minneapolis, MN.
+ETL and Tableau Visualization project to audit the availablity of rental scooters in High-Poverty neighborhoods of Minneapolis, MN.
 
 According to the City of Minneapolis, in order for scooter rental companies to be awarded contracts in 2019, they must ensure adequate numbers of scooters be available
 in poor neighborhoods.
 
-We chose to gather availabilty information from [Minneapolis Open Data Site](http://opendata.minneapolismn.gov/datasets/scooter-availability) and the [US Census Bureau](https://www.census.gov/developers/)
+We chose to gather availability information from [Minneapolis Open Data Site](http://opendata.minneapolismn.gov/datasets/scooter-availability) and the [US Census Bureau](https://www.census.gov/developers/)
 to determine whether this criteria had been met.
 
 ## Process
