@@ -37,5 +37,5 @@ Snapshot of merged and parsed data:
 
 Tableau Snapshots:
 
-![tab 1](images/Tab1.PNG)       ![tab 2](images/Tab2.PNG)
+![tab 1](images/Tab1.PNG)      ![tab 2](images/Tab2.PNG)
 
