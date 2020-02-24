@@ -11,7 +11,7 @@
 #Function (1)census_api. x_value is Poverty Type threshold (%) (default, 10.5--MN average Poverty Rate in 2017)
 
 def census_api(x_value):
-    
+      
     import pandas as pd    
     import requests
     from census import Census
