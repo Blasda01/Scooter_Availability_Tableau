@@ -13,7 +13,7 @@
 def census_api(x_value):
       
     import pandas as pd    
-    import requests
+    import requests  
     from census import Census
 
     # Census API Key
