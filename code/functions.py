@@ -21,7 +21,7 @@ def census_api(x_value):
     c = Census(api_key, year=2017)
     
     import warnings
-    warnings.filterwarnings('ignore')
+    warnings.filterwarnings('ignore')  
     
     # Run Census Search to retrieve data on all zip codes (2013 ACS5 Census)
     # See: https://github.com/CommerceDataService/census-wrapper for library documentation
